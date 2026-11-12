@@ -1,6 +1,6 @@
-# Northline Studio
+# Vamero Web Studio
 
-**Live website:** https://lol-lab48.github.io/northline-studio/
+**Live website:** https://lol-lab48.github.io/Vamero-Web-Studio/
 
 Northline Studio is a modern business website showcasing services, selected work and a simple way for clients to make enquiries.
 
@@ -14,7 +14,7 @@ Northline Studio is a modern business website showcasing services, selected work
 
 ## Contact
 
-- **Email:** gabe.karekinian@gmail.com
+- **Email:** VameroWebStudio.contact@gmail.com
 - **Phone:** 0429 666 052
 
 ## Run locally
