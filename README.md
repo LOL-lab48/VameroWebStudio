@@ -1,6 +1,6 @@
 # Northline Studio
 
-**Live website:** https://YOUR-USERNAME.github.io/northline-studio/
+**Live website:** https://lol-lab48.github.io/northline-studio/
 
 Northline Studio is a modern business website showcasing services, selected work and a simple way for clients to make enquiries.
 
