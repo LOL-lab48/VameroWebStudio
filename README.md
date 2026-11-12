@@ -14,7 +14,7 @@ Northline Studio is a modern business website showcasing services, selected work
 
 ## Contact
 
-- **Email:** VameroWebStudio.contact@gmail.com
+- **Email:** Currently Unavailable, Please call us or text.
 - **Phone:** 0429 666 052
 
 ## Run locally
